@@ -8,4 +8,4 @@ namespace ProjetoWebMvc.Models.ViewModels
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
-}
+} 
